@@ -17,15 +17,19 @@ ShopEase is an admin dashboard designed to simplify the management of e-commerce
 
     - **Grid Layout**: The layout of these three sections is aligned using CSS Grid, which ensures proper positioning and scalability across different screen sizes, giving a clean and organized look to the dashboard.
 
-Technologies Used
+## Technologies Used
 
-    HTML5: For the structure of the website.
-    CSS3: For styling, including responsive design, themes, and layout using CSS Grid.
-    JavaScript: For the theme toggle functionality, sidebar management, and other interactive elements.
-    Responsive Design: Ensuring the website adapts smoothly to different device sizes with media queries and flexible layouts.
+- **HTML5**: For the structure of the website.
+ 
+- **CSS3**: For styling, including responsive design, themes, and layout using CSS Grid.
+ 
+- **JavaScript**: For the theme toggle functionality, sidebar management, and other interactive elements.
+  
+- **Responsive Design**: Ensuring the website adapts smoothly to different device sizes with media queries and flexible layouts.
 
-Getting Started
-Prerequisites
+## Getting Started
+
+- Prerequisites
 
 Ensure you have the following tools installed:
 
