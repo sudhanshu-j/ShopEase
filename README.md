@@ -31,13 +31,15 @@ ShopEase is an admin dashboard designed to simplify the management of e-commerce
 
 - Prerequisites
 
-Ensure you have the following tools installed:
+   - Ensure you have the following tools installed:
 
-    A modern web browser (Chrome, Firefox, Safari, etc.)
-    A code editor (e.g., VS Code, Sublime Text)
-    Git (if cloning from a repository)
+        - A modern web browser (Chrome, Firefox, Safari, etc.)
+          
+        - A code editor (e.g., VS Code, Sublime Text)
+        
+        - Git (if cloning from a repository)
 
-Installation
+## Installation
 
-    Clone the repository:
+- Clone the repository:
 
