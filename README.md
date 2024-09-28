@@ -55,13 +55,13 @@ ShopEase is an admin dashboard designed to simplify the management of e-commerce
 
 - ShopEase/
 - │
-- ├── index.html             # Main entry point
+- ├── index.html                       # Main entry point
 - ├── css/
-- │   └── style.css          # Main stylesheet for layout and responsiveness
+- │   └── style.css                    # Main stylesheet for layout and responsiveness
 - ├── js/
-- │   └── app.js             # JavaScript file for interactive elements
+- │   └── main.js                      # JavaScript file for interactive elements
 - └── assets/
-    - └── images/            # Image assets
+    - └── images/                      # Image assets
 
 ## Usage
 
@@ -71,5 +71,7 @@ ShopEase is an admin dashboard designed to simplify the management of e-commerce
 
 - **Grid Layout**: The left sidebar, middle content area, and right section will remain aligned even as you resize the window.
 
+## Customization
 
+You can easily modify the styles or functionality by editing the style.css and main.js files. The CSS Grid can be adapted to change the layout, and JavaScript can be extended to add more interactive features.
 
