@@ -52,22 +52,24 @@ ShopEase is an admin dashboard designed to simplify the management of e-commerce
 - Open in browser: Open the index.html file in your preferred browser or use a local development server.
 
 ## File Structure
-```bash
-ShopEase/
-│
-├── index.html             # Main entry point
-├── css/
-│   └── style.css          # Main stylesheet for layout and responsiveness
-├── js/
-│   └── app.js             # JavaScript file for interactive elements
-└── assets/
-    └── images/            # Image assets
+
+- ShopEase/
+- │
+- ├── index.html             # Main entry point
+- ├── css/
+- │   └── style.css          # Main stylesheet for layout and responsiveness
+- ├── js/
+- │   └── app.js             # JavaScript file for interactive elements
+- └── assets/
+    - └── images/            # Image assets
 
 ## Usage
 
-    Theme Toggle: Click on the sun/moon icon to switch between light and dark modes.
-    Hamburger Sidebar: On mobile devices, tap the hamburger icon to expand or collapse the sidebar for easy navigation.
-    Grid Layout: The left sidebar, middle content area, and right section will remain aligned even as you resize the window.
+- **Theme Toggle**: Click on the sun/moon icon to switch between light and dark modes.
+  
+- **Hamburger Sidebar**: On mobile devices, tap the hamburger icon to expand or collapse the sidebar for easy navigation.
+
+- **Grid Layout**: The left sidebar, middle content area, and right section will remain aligned even as you resize the window.
 
 
 
