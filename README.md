@@ -2,6 +2,10 @@
 
 ShopEase is an admin dashboard designed to simplify the management of e-commerce operations, providing a responsive and intuitive interface with essential features like real-time analytics, inventory management, and sales tracking. This dashboard is fully customizable, offering both light and dark themes, and a mobile-friendly design to ensure accessibility on various devices.
 
+## Live Demo
+
+🔴 [Live Demo](https://shopease-admin-dashboard.netlify.app)
+
 ## Features
 
 - **Light/Dark Theme Toggle**: ShopEase offers a theme toggle feature that allows users to switch between a light and dark theme, enhancing the visual experience based on user preferences or ambient lighting conditions.
